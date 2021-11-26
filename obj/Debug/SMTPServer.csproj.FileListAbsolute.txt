@@ -1,0 +1,14 @@
+C:\Users\agabriel\source\repos\SMTPServer\bin\Debug\SMTPServer.exe.config
+C:\Users\agabriel\source\repos\SMTPServer\bin\Debug\SMTPServer.exe
+C:\Users\agabriel\source\repos\SMTPServer\bin\Debug\SMTPServer.pdb
+C:\Users\agabriel\source\repos\SMTPServer\obj\Debug\SMTPServer.csprojAssemblyReference.cache
+C:\Users\agabriel\source\repos\SMTPServer\obj\Debug\SMTPServer.csproj.CoreCompileInputs.cache
+C:\Users\agabriel\source\repos\SMTPServer\obj\Debug\SMTPServer.exe
+C:\Users\agabriel\source\repos\SMTPServer\obj\Debug\SMTPServer.pdb
+C:\Users\aaron\Downloads\code\SMTPServer\bin\Debug\SMTPServer.exe.config
+C:\Users\aaron\Downloads\code\SMTPServer\bin\Debug\SMTPServer.exe
+C:\Users\aaron\Downloads\code\SMTPServer\bin\Debug\SMTPServer.pdb
+C:\Users\aaron\Downloads\code\SMTPServer\obj\Debug\SMTPServer.csproj.AssemblyReference.cache
+C:\Users\aaron\Downloads\code\SMTPServer\obj\Debug\SMTPServer.csproj.CoreCompileInputs.cache
+C:\Users\aaron\Downloads\code\SMTPServer\obj\Debug\SMTPServer.exe
+C:\Users\aaron\Downloads\code\SMTPServer\obj\Debug\SMTPServer.pdb
